@@ -1,0 +1,5 @@
+x:
+    css: 'div.ntb-div a'
+    xpath: null
+    multiple: true
+    type: Text
