@@ -72,5 +72,3 @@ def generate2():
     result_str3 = ''.join((random.choice('ABCDOOWK12348JOFB447') for i in range(5)))
     kk = 'Xm4nXp'
     return result_str,result_str2,result_str3,kk
-if __name__ == '__main__':
-    app.run(threaded=True, port=5000)
